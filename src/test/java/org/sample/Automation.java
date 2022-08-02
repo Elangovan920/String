@@ -46,7 +46,7 @@ public class Automation extends Test123 {
 		t.page1();
 		Assert.assertTrue(false);
 		t.autoTest();
-		
+		System.out.println("FINISHED BY ELANGOVAN");
 	}
 	
 }
